@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sqlite_database</string>
+    <string name="sqlite">SQLite</string>
+    <string name="add">Add</string>
+    <string name="value">value</string>
+</resources>
